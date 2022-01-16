@@ -59,7 +59,7 @@ export const Header = ({
       className="appHeader"
       {...props}
     >
-      <a href="https://vote.hencommunity.quest" style="color: white;background: black;display: block;padding: 8px 32px;">✨ hen_community Discord naming vote is taking place at vote.hencommunity.quest</a>
+      <a href="https://vote.hencommunity.quest" style={{color: 'white',background: 'black',display: 'block',padding: '8px 32px'}}>✨ hen_community Discord naming vote is taking place at vote.hencommunity.quest</a>
       <nav className="appHeader-primaryNav">
         <section className="appHeader-primaryNav-left">
           <div className="appHeader-logo">
